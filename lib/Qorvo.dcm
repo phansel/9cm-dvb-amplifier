@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QPA0163L
+D 100-1300 MHz Cascadable SiGe HBT Amplifier +17 dB
+F https://www.mouser.com/datasheet/2/412/QPA0163L%20Data%20Sheet-1066198.pdf
+$ENDCMP
+#
+$CMP QPD1009
+D 15W 50V DC-4 GHz GaN RF Transistor
+F https://www.mouser.com/datasheet/2/412/QPD1009_Data_Sheet-1504685.pdf
+$ENDCMP
+#
+$CMP QPL9057
+F https://www.qorvo.com/products/d/da006538
+$ENDCMP
+#
+#End Doc Library

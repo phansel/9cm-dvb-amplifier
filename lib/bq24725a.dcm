@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24725A
+D 1-4 Cell Li+ Battery SMBus Charge Controller
+K smbus lithium ion charge battery
+$ENDCMP
+#
+#End Doc Library

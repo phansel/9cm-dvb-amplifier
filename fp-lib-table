@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name limesdr)(type KiCad)(uri ${KIPRJMOD}/lib/limesdr.pretty)(options "")(descr ""))
+  (lib (name package_mrf286)(type KiCad)(uri ${KIPRJMOD}/lib/package_mrf286.pretty)(options "")(descr ""))
+  (lib (name qorvo)(type KiCad)(uri ${KIPRJMOD}/lib/qorvo.pretty)(options "")(descr ""))
+  (lib (name matching_microstrips)(type KiCad)(uri ${KIPRJMOD}/lib/matching_microstrips.pretty)(options "")(descr ""))
+)

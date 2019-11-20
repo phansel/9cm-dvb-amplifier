@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0936273608
+D CONN MAGJACK 1PORT 1000 BASE-T
+K ethernet magjack gigabit magnetics
+$ENDCMP
+#
+$CMP Molex0936273608
+D CONN MAGJACK 1PORT 1000 BASE-T
+K ethernet magjack gigabit magnetics
+$ENDCMP
+#
+$CMP Molex_0936273608
+D CONN MAGJACK 1PORT 1000 BASE-T
+K ethernet magjack gigabit magnetics
+$ENDCMP
+#
+#End Doc Library

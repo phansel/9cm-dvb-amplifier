@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ4050
+D CEDV Gas Gauge and Protection for 1-4S Lithium Ion Battery Packs
+K gas, gauge, protection, lithium, battery, 4s
+$ENDCMP
+#
+#End Doc Library

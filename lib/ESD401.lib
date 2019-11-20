@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ESD401
+#
+DEF ESD401 U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "ESD401" 0 0 50 H V C CNN
+F2 "Diode_SMD:D_0402_1005Metric" 0 150 50 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/esd401.pdf" 0 150 50 H I C CNN
+DRAW
+S 200 100 -200 -100 0 1 0 f
+X IO 1 -300 0 100 R 50 50 1 1 B
+X GND 2 300 0 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

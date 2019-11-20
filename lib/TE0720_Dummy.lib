@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TE0720_3D_Dummy
+#
+DEF TE0720_3D_Dummy U 0 0 N N 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "TE0720_3D_Dummy" 0 200 50 H V C CNN
+F2 "TE0720_dummy:TE0720-03-1CFA" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -100 -150 100 150 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

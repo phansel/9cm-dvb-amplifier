@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2943
+D Multicell Battery Gas Gauge with Temperature Voltage and Current Measurement
+K gas gauge voltage current multicell
+$ENDCMP
+#
+#End Doc Library

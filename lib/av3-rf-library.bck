@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL5324
+D DC-4000MHz 1/2 watt RF Amplifier 5V
+K RF, amplifier
+$ENDCMP
+#
+#End Doc Library

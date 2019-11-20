@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD401
+D bidirectional +/- 5.5V TVS ESD protection diode
+$ENDCMP
+#
+#End Doc Library

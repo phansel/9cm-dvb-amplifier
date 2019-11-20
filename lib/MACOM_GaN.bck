@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NPTB00004A
+D GaN DC to 6 GHz RF Transistor 28V 5W
+F https://www.mouser.com/datasheet/2/249/NPTB00004A-1109174.pdf
+$ENDCMP
+#
+#End Doc Library

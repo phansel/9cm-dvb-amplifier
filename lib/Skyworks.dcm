@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY65162-70LF
+D 400-3800 MHz Linear Power Amplifier 24 dB OP1dB 29.5 dBm
+F https://www.mouser.com/datasheet/2/472/SKY65162_70LF_201212K-1524878.pdf
+$ENDCMP
+#
+#End Doc Library
