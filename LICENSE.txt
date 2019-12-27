@@ -1,4 +1,4 @@
-Copyright Paul Hansel 2019.
+Copyright Paul Hansel and Brendan Haines 2019.
 
 This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2.
 
